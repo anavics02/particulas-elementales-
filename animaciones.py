@@ -56,7 +56,7 @@ if bt4:
   with col4:
     st.image("http://quantum-bits.org/wp-content/uploads/2012/08/higgs-hat.png")
     
-   st.write("Se incluyó un campo presente en todo el espacio, que es el que da masa a las partículas. Las partículas interactúan de forma que se oponen a un cambio de movimiento, dotándolos de masa. Entonces decimos que la masa es una resistencia del espacio vacío al movimiento dada por una afinidad al campo de Higgs.")
-   st.write("En conclusión, el bosóns de Higgs es una manifestación local de un campo universal, debido a que todas las partículas tienen su campo, por ejemplo el electrón tiene el campo eléctrico. ")
-   st.image("https://www.sciencealert.com/images/2018-06/processed/HiggsBosonShutterstock_top_quark_1024.jpg")
+  st.write("Se incluyó un campo presente en todo el espacio, que es el que da masa a las partículas. Las partículas interactúan de forma que se oponen a un cambio de movimiento, dotándolos de masa. Entonces decimos que la masa es una resistencia del espacio vacío al movimiento dada por una afinidad al campo de Higgs.")
+  st.write("En conclusión, el bosóns de Higgs es una manifestación local de un campo universal, debido a que todas las partículas tienen su campo, por ejemplo el electrón tiene el campo eléctrico. ")
+  st.image("https://www.sciencealert.com/images/2018-06/processed/HiggsBosonShutterstock_top_quark_1024.jpg")
   
