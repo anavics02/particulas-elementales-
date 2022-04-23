@@ -52,7 +52,7 @@ if bt4:
   st.image("https://agencia.fapesp.br/agencia-novo/imagens/noticia/19475.jpg")
   col3,col4=st.columns(2)
   with col3:
-    st.write("Surgió a partir de que los físicos no sabían cómo hacer que las partículas adquirieran masa dentro del modelo estándar, el cual está en base a la simetría, dentro de la física de materiales, como el cambio de estado de agregación, lo que se buscó fue introducir una simetría, para posteriormente romperla (campo de Higgs, con simetría de sombrero mexicano.")
+    st.write("Surgió a partir de que los físicos no sabían cómo hacer que las partículas adquirieran masa dentro del modelo estándar, el cual está en base a la simetría, dentro de la física de materiales, como el cambio de estado de agregación, lo que se buscó fue introducir una simetría, para posteriormente romperla (campo de Higgs, con simetría de sombrero mexicano; al momento de romper dicha simetría, los cuerpos adquieren masa, como lo que se sospecha que ocurrió en el Big-Bang.")
   with col4:
     st.image("http://quantum-bits.org/wp-content/uploads/2012/08/higgs-hat.png")
     
