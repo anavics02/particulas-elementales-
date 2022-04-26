@@ -28,6 +28,7 @@ if bt1:
     **Tope (top) o verdad (truth).** Dotado de una superioridad (topness) +1.
      
     **Fondo (bottom) o belleza (beauty).** Dotado de una inferioridad (bottomness) -1.  ''')
+    
    st.write("El término color se introdujo para denominar una propiedad de los quarks, que permitió que quarks aparentemente idénticos, puedan residir en la misma partícula, por ejemplo, dos quarks up en el protón. La idea de los tres colores primarios como el rojo, verde y azul que componen la luz blanca era atractiva, y nació el lenguaje sobre partículas incoloras. No tiene nada que ver con el color real, pero proporciona tres diferentes estados cuánticos. La propiedad puede ser considerada algo así como una carga de color, con tres valores distintos, los cuales conforman partículas que sólo permiten el color neutro.")
     
     
