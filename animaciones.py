@@ -45,8 +45,7 @@ if bt2:
   
 if bt3:
   st.header("Bosón de gauge")
-  st.write("Un bosón que media la interacción entre partículas elementales. Hay varios tipos: fotones para interacciones electromagnéticas, bosones vectoriales intermedios W y Z para interacciones débiles y gravitones para interacciones gravitatorias. La única fuerza fundamental que no tiene un bosón gauge conocido es la gravedad. El bosón gauge teórico de la gravedad se llama gravitón.Todos los bosones gauge son bosones, lo que significa simplemente que dos o más de ellos pueden existir en el mismo lugar al mismo tiempo. También significa que los bosones gauge tienen un espín de 0, 1 o 2. Teoría de Campo de Higgs: Se cree que los bosones gauge interactúan con el campo de Higgs. Muchos científicos creen que este campo teórico es el responsable de que algunos bosones gauge como los bosones W y Z tengan masa, mientras que otros como los fotones no la tienen.
-")
+  st.write("Un bosón que media la interacción entre partículas elementales. Hay varios tipos: fotones para interacciones electromagnéticas, bosones vectoriales intermedios W y Z para interacciones débiles y gravitones para interacciones gravitatorias. La única fuerza fundamental que no tiene un bosón gauge conocido es la gravedad. El bosón gauge teórico de la gravedad se llama gravitón.Todos los bosones gauge son bosones, lo que significa simplemente que dos o más de ellos pueden existir en el mismo lugar al mismo tiempo. También significa que los bosones gauge tienen un espín de 0, 1 o 2. Teoría de Campo de Higgs: Se cree que los bosones gauge interactúan con el campo de Higgs. Muchos científicos creen que este campo teórico es el responsable de que algunos bosones gauge como los bosones W y Z tengan masa, mientras que otros como los fotones no la tienen.")
   st.image("https://francis.naukas.com/files/2017/11/Dibujo20171126-gauge-theory-lagrangian1.png")
   
 if bt4:
