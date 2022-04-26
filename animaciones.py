@@ -28,6 +28,7 @@ if bt1:
     **Tope (top) o verdad (truth).** Dotado de una superioridad (topness) +1.
      
     **Fondo (bottom) o belleza (beauty).** Dotado de una inferioridad (bottomness) -1.  ''')
+   st.write("El término color se introdujo para denominar una propiedad de los quarks, que permitió que quarks aparentemente idénticos, puedan residir en la misma partícula, por ejemplo, dos quarks up en el protón. La idea de los tres colores primarios como el rojo, verde y azul que componen la luz blanca era atractiva, y nació el lenguaje sobre partículas incoloras. No tiene nada que ver con el color real, pero proporciona tres diferentes estados cuánticos. La propiedad puede ser considerada algo así como una carga de color, con tres valores distintos, los cuales conforman partículas que sólo permiten el color neutro.")
     
     
   with col2:
@@ -43,7 +44,8 @@ if bt2:
   
 if bt3:
   st.header("Bosón de gauge")
-  st.write("un bosón que media la interacción entre partículas elementales. Hay varios tipos: fotones para interacciones electromagnéticas, bosones vectoriales intermedios W y Z para interacciones débiles y gravitones para interacciones gravitatorias.")
+  st.write("Un bosón que media la interacción entre partículas elementales. Hay varios tipos: fotones para interacciones electromagnéticas, bosones vectoriales intermedios W y Z para interacciones débiles y gravitones para interacciones gravitatorias. La única fuerza fundamental que no tiene un bosón gauge conocido es la gravedad. El bosón gauge teórico de la gravedad se llama gravitón.Todos los bosones gauge son bosones, lo que significa simplemente que dos o más de ellos pueden existir en el mismo lugar al mismo tiempo. También significa que los bosones gauge tienen un espín de 0, 1 o 2. Teoría de Campo de Higgs: Se cree que los bosones gauge interactúan con el campo de Higgs. Muchos científicos creen que este campo teórico es el responsable de que algunos bosones gauge como los bosones W y Z tengan masa, mientras que otros como los fotones no la tienen.
+")
   st.image("https://francis.naukas.com/files/2017/11/Dibujo20171126-gauge-theory-lagrangian1.png")
   
 if bt4:
